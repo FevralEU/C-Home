@@ -1,0 +1,15 @@
+C:\git\C-Home\lesson7task001\obj\Debug\net6.0\lesson7task001.csproj.AssemblyReference.cache
+C:\git\C-Home\lesson7task001\obj\Debug\net6.0\lesson7task001.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\C-Home\lesson7task001\obj\Debug\net6.0\lesson7task001.AssemblyInfoInputs.cache
+C:\git\C-Home\lesson7task001\obj\Debug\net6.0\lesson7task001.AssemblyInfo.cs
+C:\git\C-Home\lesson7task001\obj\Debug\net6.0\lesson7task001.csproj.CoreCompileInputs.cache
+C:\git\C-Home\lesson7task001\bin\Debug\net6.0\lesson7task001.exe
+C:\git\C-Home\lesson7task001\bin\Debug\net6.0\lesson7task001.deps.json
+C:\git\C-Home\lesson7task001\bin\Debug\net6.0\lesson7task001.runtimeconfig.json
+C:\git\C-Home\lesson7task001\bin\Debug\net6.0\lesson7task001.dll
+C:\git\C-Home\lesson7task001\bin\Debug\net6.0\lesson7task001.pdb
+C:\git\C-Home\lesson7task001\obj\Debug\net6.0\lesson7task001.dll
+C:\git\C-Home\lesson7task001\obj\Debug\net6.0\refint\lesson7task001.dll
+C:\git\C-Home\lesson7task001\obj\Debug\net6.0\lesson7task001.pdb
+C:\git\C-Home\lesson7task001\obj\Debug\net6.0\lesson7task001.genruntimeconfig.cache
+C:\git\C-Home\lesson7task001\obj\Debug\net6.0\ref\lesson7task001.dll
